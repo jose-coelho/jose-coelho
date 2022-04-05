@@ -1,4 +1,4 @@
-## Oii! eu sou o José Carlos Ferreira Coelho
+## José Carlos Ferreira Coelho
 ###
 <div align="center">
   <a href="https://github.com/GabrielSFCoelho">
